@@ -17,7 +17,7 @@
 ![微博帖子采集结果](https://files.mdnice.com/user/32110/04990ce0-afd4-4084-a3d7-a39217728028.png)
 
 ## 1.4 演示视频
-软件运行演示视频：[【软件演示】微博采集工具，根据搜索关键词一键爬帖子](https://www.bilibili.com/video/BV1pN61YBEwE/)
+软件运行演示视频：[【软件演示】微博采集工具，根据搜索关键词一键爬帖子](https://mp.weixin.qq.com/s/cXXq5C6IeJqRDmo30VzlcQ)
 
 ## 1.5 软件说明
 几点重要说明，请详读了解：
