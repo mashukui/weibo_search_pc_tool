@@ -15,7 +15,7 @@
 
 ## 1.3 结果展示
 爬取结果：（截图中展示的就是全部字段了）
-![微博帖子采集结果](https://files.mdnice.com/user/32110/04990ce0-afd4-4084-a3d7-a39217728028.png)
+![微博帖子采集结果](images/wsp_01.png)
 
 ## 1.4 演示视频
 软件运行演示视频：[【软件演示】微博采集工具，根据搜索关键词一键爬帖子](https://mp.weixin.qq.com/s/cXXq5C6IeJqRDmo30VzlcQ)
@@ -47,12 +47,12 @@ logging：日志记录
 ## 3.0 填写cookie
 开始采集前，先把自己的cookie值填入cookie.txt文件。
 pc端微博cookie获取说明：
-![cookie获取方法](https://files.mdnice.com/user/32110/8fc4eb62-96fc-4289-a3bd-08f48b9be124.png)
+![cookie获取方法](images/wsp_02.png)
 
 然后把复制的cookie值填写到当前文件夹的cookie.txt文件中。
 ## 3.1 软件登录
 用户登录界面：
-![用户登录](https://files.mdnice.com/user/32110/ed1adbf4-2559-41a0-b559-c068fc4d9687.png)
+![用户登录](images/wsp_03.png)
 
 ## 3.2 采集微博帖子
 根据自己的实际情况，在软件界面填写采集条件，点击开始按钮：<img width="1790" height="1336" alt="微博搜索v1 4-界面说明" src="https://github.com/user-attachments/assets/94da5f77-8cc1-423b-96b7-1cb10c608766" />
